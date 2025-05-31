@@ -16,5 +16,4 @@ MAKE SURE AFTER SOLVING CAPTCHA (IM NOT A ROBOT TO PRESS ENTER ON UR TERMINAL/AP
 
 NOTE : 
 
-The current database includes only 28 researchers, as it was used for testing the interface. However, the system is fully capable of scraping all researcher profiles from the Lebanese University and from any other university as needed. It is also capable of scraping an unlimited number of researchers based on your preference. 
-// Cleaned tables and made sure no duplicates are found 
+The system is fully capable of scraping all researcher profiles from the Lebanese University and from any other university as needed. It is also capable of scraping an unlimited number of researchers based on your preference. 
